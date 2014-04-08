@@ -13,13 +13,14 @@ h1 {
 	font-size: 3em;
 	color: #f5f5f5; 
 	margin-top: 10px;
+	padding-left: 4%;
 }
 
 
 h2 {
 	font-size: 2em;
 	color: #0C0A50;
-	padding-left: 7%;
+	padding-left: 4%;
 }
 
 section {
@@ -29,16 +30,16 @@ section {
 
 img {
 	border: 3px solid #0C0A50;
-	width: 150px;
+	width: 135px;
 	height: auto;
-	padding: 5px;
 	position: absolute;
-	top: 0;
-	right: 0;
+	top: .5em;
+	right: 4em;
 }
 
 address {
 	color: white;
+	padding-left: 4%;
 
 }
 
@@ -64,7 +65,7 @@ nav ul li {
 
 }
 
-a:link #nav {
+a:link {
 	text-decoration: none;
 	color: #0C0A50;
 }
@@ -109,4 +110,8 @@ article {
 	margin: 2em auto;
 	background: #c0c0c0;
 	max-width: 80%;
+}
+
+#bottom_nav {
+	text-align: center;
 }

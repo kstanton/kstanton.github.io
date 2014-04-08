@@ -80,15 +80,18 @@ a:hover {
 }
 
 #education_p {
-	padding-left: 10%;
-	padding-top: 0;
+	border: 1px solid #D3D3D3;
+	padding: 1em;
+	margin: 2em auto;
+	background: #c0c0c0;
+	max-width: 80%;
 }
 
 #skills_p {
 	border: 1px solid #D3D3D3;
 	padding: 1em;
 	margin: 2em auto;
-	background: #DCDCDC;
+	background: #c0c0c0;
 	max-width: 80%;
 }
 
@@ -96,7 +99,7 @@ a:hover {
 	border: 1px solid #D3D3D3;
 	padding: 1em;
 	margin: 2em auto;
-	background: #DCDCDC;
+	background: #c0c0c0;
 	max-width: 80%;
 }
 
@@ -104,6 +107,6 @@ article {
 	border: 1px solid #D3D3D3;
 	padding: 1em;
 	margin: 2em auto;
-	background: #DCDCDC;
+	background: #c0c0c0;
 	max-width: 80%;
 }

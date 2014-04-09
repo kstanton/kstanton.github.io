@@ -123,3 +123,18 @@ article {
 #bottom_nav {
 	text-align: center;
 }
+
+@media only screen and (max-device-width: 320px) {
+	body {
+		width: 300px;
+	}
+
+	img {
+		display: none;
+	}
+
+	nav ul li {
+		display: block;
+	}
+
+}

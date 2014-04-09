@@ -35,7 +35,7 @@ section {
 
 img {
 	border: 3px solid #c0c0c0;
-	width: 135px;
+	max-width: 16%;
 	height: auto;
 	position: absolute;
 	top: 5%;
@@ -45,7 +45,6 @@ img {
 address {
 	color: white;
 	text-align: center;
-
 }
 
 #page_container {

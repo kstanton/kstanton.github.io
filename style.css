@@ -6,7 +6,7 @@ body{
 	max-width: 80%;
 	font-family: 'Roboto Condensed', sans-serif;
 	border: 4px solid #A0A0A0;
-	background-color: #02023A;
+	background: #02023A;
 	padding: 20px;
 	color: #02023A;
 }
@@ -49,24 +49,23 @@ address {
 
 #page_container {
 	margin: auto;
-	background-color: #e4e1e1;
+	background: #e4e1e1;
 	border: 1px solid #e4e1e1;
 }
 
 header {
 	padding: 20px;
-	background-color: #A0A0A0;
+	background: #A0A0A0;
 	position: relative;
 }
 
 nav ul li {
 	display: inline;
 	margin: 30px;
-	border: 2px solid;
+	border: 2px solid #949494;
 	border-radius: 2px 15px 5px;
 	background: #A0A0A0;
 	padding: 1em;
-	border-color: #949494;
 
 }
 
@@ -81,7 +80,7 @@ a:hover {
 }
 
 #nav {
-	background-color: #c0c0c0;
+	background: #c0c0c0;
 	border: .5em solid #c0c0c0;
 	padding: 0;
 	text-align: center;
@@ -129,6 +128,7 @@ article {
 
 	body {
 		max-width: 95%;
+		font-size: 24px;
 	}
 
 	img {

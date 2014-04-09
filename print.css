@@ -10,3 +10,9 @@ body {
 @page {
 	margin: 0.5in
 }
+
+a[href^="http:"]:after { content: " (" attr(href) ") "; }
+
+img, #nav, #bottom_nav {
+	display: none;
+}

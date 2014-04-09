@@ -127,7 +127,7 @@ article {
 @media only screen and (max-device-width: 320px) {
 
 	body {
-		background: none;
+		max-width: 90%;
 	}
 
 	img {
@@ -136,10 +136,7 @@ article {
 
 	nav ul li {
 		display: block;
-	}
-
-	margin {
-
+		padding: .5em;
 	}
 
 }

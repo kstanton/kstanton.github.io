@@ -126,12 +126,20 @@ article {
 
 @media only screen and (max-device-width: 320px) {
 
+	body {
+		background: none;
+	}
+
 	img {
 		display: none;
 	}
 
 	nav ul li {
 		display: block;
+	}
+
+	margin {
+
 	}
 
 }

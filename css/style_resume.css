@@ -69,7 +69,7 @@ nav li {
 #experience {
 	padding-left: 57%;
 	text-align: left;
-	max-width: 60%;
+	min-width: 60%;
 	padding-top: 4%;
 	border-left: 1px solid white;
 }

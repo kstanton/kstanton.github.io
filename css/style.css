@@ -1,0 +1,58 @@
+@import url(http://fonts.googleapis.com/css?family=Voltaire);
+
+html body {
+	background: #02011E;
+	font-family: 'Voltaire', sans-serif;
+	font-size: 16px;
+	color: white;
+	width: 85%;
+	margin: 0;
+	padding: 0;
+}
+
+
+#header {
+	padding-left: 15%;
+}
+
+h1 {
+	color: white;
+	font-size: 4em;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	float: left;
+	border-right: 2px solid white;
+	padding-right: .3em;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #EB86C6;
+}
+
+#top_nav a:hover {
+	text-decoration: underline;
+}
+
+nav ul {
+	padding-top: 78px;
+	padding-left: 60px;
+}
+
+nav li {
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+#top_nav {
+	padding-right: 0;
+}

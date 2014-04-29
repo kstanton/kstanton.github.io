@@ -43,12 +43,12 @@ a:hover {
 	text-decoration: underline;
 }
 
-nav ul {
+#top_nav nav ul {
 	padding-top: 78px;
 	padding-left: 60px;
 }
 
-nav li {
+#top_nav nav li {
 	display: inline;
 	padding: 0 20px 0 20px;
 }
@@ -57,19 +57,25 @@ nav li {
 	padding-right: 0;
 }
 
-
 #left {
-	max-width: 40%;
 	float: left;
-	padding-top: 4%
-
+	padding-left: 15%
 }
 
+#education_p {
+	max-width: 40%;
+}
+
+#skills_p {
+	max-width: 40%;
+}
+
+#activities {
+	max-width: 40%;
+}
 
 #experience {
-	padding-left: 57%;
-	text-align: left;
-	min-width: 60%;
-	padding-top: 4%;
-	border-left: 1px solid white;
+	max-width: 40%;
+	float: right;
+
 }

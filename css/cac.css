@@ -1,8 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Voltaire);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
-html body {
+html, body {
 	background: #02011E;
-	font-family: 'Voltaire', sans-serif;
+	font-family: 'Open+Sans', sans-serif;
 	font-size: 16px;
 	color: white;
 	width: 85%;
@@ -13,6 +14,8 @@ html body {
 
 #header {
 	padding-left: 15%;
+	clear: both;
+	font-family: 'Voltaire', sans-serif;
 }
 
 h1 {
@@ -43,33 +46,35 @@ a:hover {
 	text-decoration: underline;
 }
 
-nav ul {
+#top_nav nav ul {
 	padding-top: 78px;
 	padding-left: 60px;
 }
 
-nav li {
+#top_nav nav li {
 	display: inline;
-	padding: 0 20px 0 20px;
+	padding: 0 10px 0 10px;
 }
 
 #top_nav {
 	padding-right: 0;
 }
 
-
-#left {
-	max-width: 40%;
-	float: left;
-	padding-top: 4%
-
+#cac {
+	padding-top: 3%;
+	padding-left: 15%;
+}
+h2 {
+	font-size: 2em;
 }
 
-
-#experience {
-	padding-left: 57%;
-	text-align: left;
-	max-width: 60%;
-	padding-top: 4%;
-	border-left: 1px solid white;
+p {
+	padding-left: 5%;
 }
+
+#link {
+	text-align: right;
+}
+
+#link a:link {
+	text-decoration: underline;

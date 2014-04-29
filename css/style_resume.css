@@ -59,17 +59,31 @@ nav li {
 
 
 #left {
-	max-width: 40%;
-	float: left;
-	padding-top: 4%
-
+	padding-top: 3%;
+	padding-left: 15%;
 }
 
+#education {
+	max-width: 30%;
+	float: left;
+	clear: left;
+}
+
+#skills {
+	max-width: 30%;
+	float: left;
+	clear: left;
+}
+
+#activities {
+	max-width: 30%;
+	float: left;
+	clear: left;
+}
 
 #experience {
-	padding-left: 57%;
+	padding-left: 50%;
 	text-align: left;
-	max-width: 60%;
-	padding-top: 4%;
+	max-width: 55%;
 	border-left: 1px solid white;
 }

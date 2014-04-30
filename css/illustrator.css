@@ -46,42 +46,48 @@ a:hover {
 	text-decoration: underline;
 }
 
-nav ul {
+#top_nav nav ul {
 	padding-top: 78px;
 	padding-left: 60px;
 }
 
-nav li {
+#top_nav nav li {
 	display: inline;
-	padding: 0 20px 0 20px;
+	padding: 0 10px 0 10px;
 }
 
 #top_nav {
 	padding-right: 0;
 }
 
-h2 {
+#illustrator_nav nav ul li {
+	list-style-type: none;
+}
+
+#back {
 	padding-top: 5%;
-	font-size: 2em;
 }
 
-#contact {
-	text-decoration: underline;
-
-}
-
-#about_text {
+h2 {
+	font-size: 2.7em;
+	margin: 0;
 	padding-left: 15%;
+	padding-top: 5%;
 }
 
+#illustrator_nav li { 
+	border-bottom: 1px solid white;
+}
+
+#illustrator_nav {
+	padding-left: 15%;
+	padding-right: 10%;
+}
 
 p {
-	padding-left: 40%;
-	padding-right: 10%;
-	padding-top: 3%;
+	padding-left: 5%;
 }
 
-img {
-	float: left;
-
+#top {
+	border-top: 1px solid white;
 }

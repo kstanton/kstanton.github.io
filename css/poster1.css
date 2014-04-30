@@ -46,42 +46,27 @@ a:hover {
 	text-decoration: underline;
 }
 
-nav ul {
+#top_nav nav ul {
 	padding-top: 78px;
 	padding-left: 60px;
 }
 
-nav li {
+#top_nav nav li {
 	display: inline;
-	padding: 0 20px 0 20px;
+	padding: 0 10px 0 10px;
 }
 
 #top_nav {
 	padding-right: 0;
 }
 
-h2 {
+#back {
 	padding-top: 5%;
+}
+
+h2 {
 	font-size: 2em;
-}
-
-#contact {
-	text-decoration: underline;
-
-}
-
-#about_text {
+	margin: 0;
 	padding-left: 15%;
-}
-
-
-p {
-	padding-left: 40%;
-	padding-right: 10%;
-	padding-top: 3%;
-}
-
-img {
-	float: left;
-
+	padding-top: 5%;
 }

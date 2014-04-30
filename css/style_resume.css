@@ -69,23 +69,29 @@ nav li {
 	max-width: 30%;
 	float: left;
 	clear: left;
+	border-right: 2px solid white;
+	padding-right: 10px;
+	
 }
 
 #skills {
 	max-width: 30%;
 	float: left;
 	clear: left;
+	border-right: 2px solid white;
+	padding-right: 10px;
 }
 
 #activities {
 	max-width: 30%;
 	float: left;
 	clear: left;
+	border-right: 2px solid white;
+	padding-right: 10px;
 }
 
 #experience {
 	padding-left: 50%;
 	text-align: left;
 	max-width: 55%;
-	border-left: 1px solid white;
 }

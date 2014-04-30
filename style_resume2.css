@@ -17,7 +17,6 @@ html, body {
 	clear: both;
 	font-family: 'Voltaire', sans-serif;
 }
-
 h1 {
 	color: white;
 	font-size: 4em;
@@ -46,34 +45,58 @@ a:hover {
 	text-decoration: underline;
 }
 
-#top_nav nav ul {
+nav ul {
 	padding-top: 78px;
 	padding-left: 60px;
 }
 
-#top_nav nav li {
+nav li {
 	display: inline;
-	padding: 0 10px 0 10px;
+	padding: 0 20px 0 20px;
 }
 
 #top_nav {
 	padding-right: 0;
 }
 
-#back {
-	padding-top: 5%;
-	padding-left: 15%;
+
+#education {
+	max-width: 30%;
+	float: right;
+	border-left: 1px solid white;
+	margin-bottom: 10px;
+	padding-left: 30px;
+		background: #353536;
+		margin-top: 5%;
 }
 
-h2 {
-	font-size: 2em;
-	margin: 0;
-	padding-left: 15%;
-	padding-top: 5%;
+#skills {
+	max-width: 30%;
+	float: right;
+	border-left: 1px solid white;
+	margin-bottom: 10px;
+	padding-left: 30px;
+	background: #353536;
 }
 
-img {
-	height: 600px;
-	width: auto;
-	padding-left: 20%;
+#activities {
+	max-width: 30%;
+	float: right;
+	border-left: 1px solid white;
+	padding-left: 30px;
+	background: #353536;
 }
+
+#experience {
+	text-align: left;
+	max-width: 50%;
+	float: left;
+	clear: all;
+	background: #353536;
+	margin-left: 15%;
+	border-right: 1px solid white;
+	margin-top: 5%;
+	padding-left: 5px;
+
+}
+

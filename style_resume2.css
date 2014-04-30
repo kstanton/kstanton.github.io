@@ -64,19 +64,24 @@ nav li {
 	max-width: 30%;
 	float: right;
 	border-left: 1px solid white;
-	margin-bottom: 10px;
 	padding-left: 30px;
 		background: #353536;
 		margin-top: 5%;
+		border-right: 1px solid white;
+		border-top: 1px solid white;
 }
 
 #skills {
 	max-width: 30%;
 	float: right;
 	border-left: 1px solid white;
-	margin-bottom: 10px;
 	padding-left: 30px;
 	background: #353536;
+	border-right: 1px solid white;
+}
+
+#skills ul, #activities ul {
+	padding-left: 0;
 }
 
 #activities {
@@ -85,6 +90,9 @@ nav li {
 	border-left: 1px solid white;
 	padding-left: 30px;
 	background: #353536;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+
 }
 
 #experience {
@@ -94,7 +102,7 @@ nav li {
 	clear: all;
 	background: #353536;
 	margin-left: 15%;
-	border-right: 1px solid white;
+	border: 1px solid white;
 	margin-top: 5%;
 	padding-left: 5px;
 

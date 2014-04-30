@@ -91,3 +91,8 @@ p {
 #top {
 	border-top: 1px solid white;
 }
+
+#goback {
+	padding-top: 5%;
+	padding-left: 15%;
+}

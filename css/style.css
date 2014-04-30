@@ -1,8 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Voltaire);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
-html body {
+html, body {
 	background: #02011E;
-	font-family: 'Voltaire', sans-serif;
+	font-family: 'Open+Sans', sans-serif;
 	font-size: 16px;
 	color: white;
 	width: 85%;
@@ -13,6 +14,8 @@ html body {
 
 #header {
 	padding-left: 15%;
+	clear: both;
+	font-family: 'Voltaire', sans-serif;
 }
 
 h1 {

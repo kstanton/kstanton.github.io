@@ -60,9 +60,6 @@ a:hover {
 	padding-right: 0;
 }
 
-#blog_nav nav ul li {
-	list-style-type: none;
-}
 
 #back {
 	padding-top: 5%;
@@ -77,6 +74,7 @@ h2 {
 
 #blog_nav li { 
 	border-bottom: 1px solid white;
+	list-style-type: none;
 }
 
 #blog_nav {

@@ -81,13 +81,16 @@ ul li {
 }
 
 #intro {
-	max-width: 25%;
+	max-width: 30%;
 	text-align: left;
 	float: left;
 }
 
 #info {
-	padding-left: 35%;
-	padding-top: 1px;
-
+	margin-left: 30%;
+	padding-top: 2%;
+	background: #353536;
+	padding-bottom: 2%;
+	border: 1px solid white;
+	padding-right: 2%;
 }

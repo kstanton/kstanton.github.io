@@ -152,6 +152,10 @@ ul li {
 	padding-left: 0;
 }
 
+#skills ul li, #activities ul li, #experience ul li {
+	list-style-type: disc;
+}
+
 #skills {
 	max-width: 30%;
 	float: left;
@@ -161,6 +165,7 @@ ul li {
 	background: #353536;
 	padding-right: 10px;
 	padding-left: 30px;
+	list-style-type: circle;
 }
 
 #activities {

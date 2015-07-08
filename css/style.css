@@ -28,6 +28,32 @@ h1 {
 	padding-right: .3em;
 }
 
+h2 {
+	font-size: 2em;
+	margin: 0;
+	padding-left: 15%;
+	padding-top: 5%;
+
+}
+
+h3 {
+	font-size: 1.2em;
+	padding-top: 0;
+}
+
+p {
+	padding-left: 5%;
+}
+
+
+#link {
+	text-align: right;
+}
+
+#link a:link {
+	text-decoration: underline;
+}
+
 a:link {
 	color: white;
 	text-decoration: none;
@@ -46,12 +72,12 @@ a:hover {
 	text-decoration: underline;
 }
 
-nav ul {
+#top_nav nav ul {
 	padding-top: 78px;
 	padding-left: 60px;
 }
 
-nav li {
+#top_nav nav li {
 	display: inline;
 	padding: 0 20px 0 20px;
 }
@@ -64,6 +90,276 @@ table {
 	padding-top: 5%;
 	padding-left: 20%;
 }
+
+#article {
+	padding-top: 3%;
+	padding-left: 15%;
+}
+
+/*contact*/
+
+#contact {
+	padding-left: 15%;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+#intro {
+	max-width: 30%;
+	text-align: left;
+	float: left;
+}
+
+#info {
+	margin-left: 30%;
+	padding-top: 2%;
+	background: #353536;
+	padding-bottom: 2%;
+	border: 1px solid white;
+	padding-right: 2%;
+}
+
+#contactheader {
+	text-align: left;
+	padding-bottom: 0;
+	padding-top: 5%;
+}
+
+/*end of contact*/
+
+/*resume*/
+#left {
+	padding-top: 5%;
+	padding-left: 15%;
+}
+
+#education {
+	max-width: 30%;
+	float: left;
+	clear: left;
+	border-right: 1px solid white;
+	border-top: 1px solid white;
+	border-left: 1px solid white;
+	background: #353536;
+	padding-right: 10px;
+	padding-left: 30px;
+
+}
+
+#skills ul, #activities ul {
+	padding-left: 0;
+}
+
+#skills {
+	max-width: 30%;
+	float: left;
+	clear: left;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	background: #353536;
+	padding-right: 10px;
+	padding-left: 30px;
+}
+
+#activities {
+	max-width: 30%;
+	float: left;
+	clear: left;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	border-bottom: 1px solid white;
+	background: #353536;
+	padding-right: 10px;
+	padding-left: 30px;
+}
+
+#experience {
+	margin-left: 50%;
+	text-align: left;
+	max-width: 55%;
+	background: #353536;
+	border: 1px solid white;
+	margin-bottom: 5%;
+	padding-left: 30px;
+}
+
+/*end of resume*/
+
+/*audio*/
+#audio_nav li { 
+	border-bottom: 1px solid white;
+}
+
+#audio_nav {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+p {
+	padding-left: 5%;
+}
+
+#top {
+	border-top: 1px solid white;
+}
+
+#goback {
+	padding-top: 5%;
+	padding-left: 15%;
+}
+
+#audio_nav nav, ul, li {
+	list-style-type: none;
+}
+/*end of audio*/
+
+#mywork {
+	font-size: 2.7em;
+	margin: 0;
+	padding-left: 15%;
+	padding-top: 5%;
+}
+
+/*Videos*/
+
+#videos_nav nav, ul, li {
+	list-style-type: none;
+}
+
+#videos_nav li { 
+	border-bottom: 1px solid white;
+}
+
+#videos_nav {
+	padding-left: 15%;
+	padding-right: 10%;
+}
+
+p {
+	padding-left: 5%;
+}
+
+#top {
+	border-top: 1px solid white;
+}
+
+#goback {
+	padding-top: 5%;
+	padding-left: 15%;
+}
+
+#back {
+	padding-top: 5%;
+}
+
+/*blog*/
+#blog_nav li { 
+	border-bottom: 1px solid white;
+	list-style-type: none;
+}
+
+#blog_nav {
+	padding-left: 15%;
+	padding-right: 10%;
+}
+
+#top {
+	border-top: 1px solid white;
+}
+
+#goback {
+	padding-top: 5%;
+	padding-left: 15%;
+}
+
+#blog {
+	padding-top: 3%;
+	padding-left: 15%;
+}
+
+#commandments {
+	padding-left: 35%;
+}
+
+ol li {
+
+}
+
+/* articles */
+
+#trivia {
+	border-top: 1px solid white;
+}
+
+#article_nav li { 
+	border-bottom: 1px solid white;
+}
+
+#article_nav {
+	padding-left: 15%;
+	padding-right: 10%;
+}
+
+#article_nav nav ul li {
+	list-style-type: none;
+}
+
+#back {
+	padding-top: 5%;
+}
+
+/* illustrator */
+
+img {
+	padding-left: 20%;
+	padding-top: 3%;
+}
+
+/* animations */
+#animations_nav {
+	padding-left: 15%;
+	padding-right: 10%;
+}
+
+/* work index */
+
+#work_nav {
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+#work_nav nav ul li {
+	list-style-type: none;
+}
+
+#work_nav h2 {
+	font-size: 2.7em;
+	margin: 0;
+	padding-left: 0;
+	border-bottom: 1px solid white;
+}
+
+
+/*about me */
+
+#contact_about {
+	text-decoration: underline;
+}
+
+
+#about_text p {
+
+	padding-right: 10%;
+	padding-top: 3%;
+}
+
+#about_text img {
+	float: left;
+
+}
+
 
 .img1 {
 
@@ -79,3 +375,4 @@ transition: all 0.5s ease-in-out;
 	filter: none;
 -webkit-filter: grayscale(0%);
 }
+

@@ -93,6 +93,18 @@ nav li {
 	padding-left: 30px;
 }
 
+#awards {
+	max-width: 30%;
+	float: left;
+	clear: left;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	border-bottom: 1px solid white;
+	background: #353536;
+	padding-right: 10px;
+	padding-left: 30px;
+}
+
 #activities {
 	max-width: 30%;
 	float: left;

@@ -152,11 +152,11 @@ ul li {
 
 }
 
-#skills ul, #activities ul {
+#skills ul, #awards ul, #activities ul {
 	padding-left: 0;
 }
 
-#skills ul li, #activities ul li, #experience ul li {
+#skills ul li, #awards ul li, #activities ul li, #experience ul li {
 	list-style-type: disc;
 }
 
@@ -170,6 +170,18 @@ ul li {
 	padding-right: 10px;
 	padding-left: 30px;
 	list-style-type: circle;
+}
+
+#awards {
+	max-width: 30%;
+	float: left;
+	clear: left;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	border-bottom: 1px solid white;
+	background: #353536;
+	padding-right: 10px;
+	padding-left: 30px;
 }
 
 #activities {

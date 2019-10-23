@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Tangled Poster From Scratch</title>
+	<link rel="stylesheet" type="text/css" href="css/website.css" media="screen"/>
+	<link rel="stylesheet" href="print.css" type="text/css" media="print" />
+	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+</head>
+<body>
+
+<header id="header">
+
+	<h1><a href="index.html" id="back">Kate Stanton</a></h1>
+
+
+	<div id="top_nav">
+		<nav>
+			<ul>
+				<li><a href="about_me.html">About Me</a></li>
+				<li><a href="work_index.html">My Work</a></li>
+				<li><a href="index_resume.html">My Resume</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+
+
+<div id="goback">
+<a href="photoshop.html">&lt; Photoshop</a> 
+</div>
+
+<h2>Spring Break Safety Palm Card</h2>
+
+<img src="img/SB_Front.jpg" />
+<img src="img/SB_Back.jpg" />
+
+
+</body>
+</html>

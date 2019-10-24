@@ -33,7 +33,6 @@ h2 {
 	margin: 0;
 	padding-left: 15%;
 	padding-top: 5%;
-
 }
 
 h3 {
@@ -45,11 +44,7 @@ p {
 	padding-left: 5%;
 }
 
-ul {
-	margin: 0;
-	padding-left: 15%;
-	padding-top: 5%;
-}
+
 
 #link {
 	text-align: right;
@@ -103,6 +98,23 @@ table {
 
 iframe {
 	padding-left: 15%;
+}
+
+#index h2 {
+	 margin-bottom: 0px;
+	 text-decoration: underline;
+}
+
+#index h3 {
+	padding-left: 5%;
+	margin-top: 0px;
+	margin-bottom: 1em;
+}
+
+#index ul {
+	margin: 0;
+	padding-left: 15%;
+	padding-top: 5%;
 }
 
 /*contact*/

@@ -45,6 +45,11 @@ p {
 	padding-left: 5%;
 }
 
+ul {
+	margin: 0;
+	padding-left: 15%;
+	padding-top: 5%;
+}
 
 #link {
 	text-align: right;
@@ -302,6 +307,11 @@ p {
 
 #blog {
 	padding-top: 3%;
+	padding-left: 15%;
+}
+
+#blog h3 {
+		margin: 0;
 	padding-left: 15%;
 }
 

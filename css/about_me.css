@@ -2,10 +2,10 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 html, body {
-	background: #02011E;
+	background: #e6f1ff;
 	font-family: 'Open+Sans', sans-serif;
 	font-size: 16px;
-	color: white;
+	color: #02011E;
 	width: 85%;
 	margin: 0;
 	padding: 0;
@@ -19,22 +19,22 @@ html, body {
 }
 
 h1 {
-	color: white;
+	color: #02011E;
 	font-size: 4em;
 	margin-bottom: 0;
 	padding-bottom: 0;
 	float: left;
-	border-right: 2px solid white;
+	border-right: 2px solid #02011E;
 	padding-right: .3em;
 }
 
 a:link {
-	color: white;
+	color: #02011E;
 	text-decoration: none;
 }
 
 a:visited {
-	color: white;
+	color: #02011E;
 	text-decoration: none;
 }
 
@@ -78,7 +78,7 @@ h2 {
 p {
 	padding-left: 40%;
 	padding-right: 10%;
-	padding-top: 3%;
+	color: #02011E;
 }
 
 img {

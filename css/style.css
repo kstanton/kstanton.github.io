@@ -202,6 +202,10 @@ ul li {
 	padding-left: 30px;
 }
 
+#resume_link {
+	text-decoration: underline;
+}
+
 #activities {
 	max-width: 30%;
 	float: left;
